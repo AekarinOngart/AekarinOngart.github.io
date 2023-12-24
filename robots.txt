@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://aekarinongart.github.io/sitemap.xml
-Host: https://aekarinongart.github.io
